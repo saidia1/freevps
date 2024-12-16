@@ -1,5 +1,5 @@
 {
-  "name": "Debian VPS",
+  "name": "Debian Environment",
   "image": "debian:latest",
   "features": {
     "docker-in-docker": "latest"
