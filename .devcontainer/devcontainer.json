@@ -1,0 +1,12 @@
+{
+  "name": "Debian VPS",
+  "image": "debian:latest",
+  "features": {
+    "docker-in-docker": "latest"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-vscode-remote.remote-containers"]
+    }
+  }
+}
